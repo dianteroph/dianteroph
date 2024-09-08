@@ -10,7 +10,7 @@ Quantitative methods in Political Science:
 - Russian politics in 90 - 00s
 - factors of protests and public opinion in modern Russia
 
-![Diana Github Stats](https://github-readme-stats.vercel.app/api?dianteroph=yourusername&show_icons=true&hide_border=true&theme=radical)
+![Diana Github Stats](https://github-readme-stats.vercel.app/api?username=dianteroph&show_icons=true&theme=tokyonight&count_private=true)
 <!--
 **dianteroph/dianteroph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
