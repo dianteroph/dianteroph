@@ -1,6 +1,10 @@
 ## Data-analyst 
 📌 Higher School of Economics, Saint-Petersburg
 
+## Contacts:
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:dianashevtsova03@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dianteroph)
+
 ## Skills:
 - Python (Pandas, NumPy, Matplotlib), R, SQL, Git, Excel
 - Deep knowledge of statistics and probability theory
@@ -12,7 +16,6 @@ Quantitative methods in Political Science:
 
 ![Diana Github Stats](https://github-readme-stats.vercel.app/api?username=dianteroph&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:dianashevtsova03@gmail.com)
 <!--
 **dianteroph/dianteroph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
