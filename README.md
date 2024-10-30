@@ -5,7 +5,7 @@
 📚 currently study the basis of A/B testing and Data visualization 
 
 ## Contacts:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/dianteroph) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dianteroph) 
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=Telegram&logoColor=white)](https://t.me/dianteroph)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=Gmail&logoColor=white)](mailto:dianashevtsova03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
