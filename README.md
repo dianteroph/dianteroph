@@ -35,7 +35,7 @@ Quantitative methods in Political Science:
 - Russian politics in 90 - 00s
 - factors of protests and public opinion in modern Russia
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dianteroph&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dianteroph&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dianteroph&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
