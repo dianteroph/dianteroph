@@ -30,6 +30,12 @@
 
 📝 Deep knowledge of statistics and probability theory
 
+## Courses: 
+🌟 Karpov Courses -- [Mathematics for data analysis](https://karpov.courses/mathsds)<br/>
+🌟 Stepik -- ["Поколение Python"](https://stepik.org/course/58852/promo#toc), [Basics of Statistics](https://stepik.org/course/76/syllabus)<br/>
+🌟 DataCamp -- [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python), [Introduction to Statistics in Python](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python)<br/>
+🌟 Яндекс Практикум - [Прикладной анализ данных в социальных науках](https://education.yandex.ru/handbook/data-analysis)
+
 ## Reserch interests:
 Quantitative methods in Political Science:
 - Russian politics in 90 - 00s
