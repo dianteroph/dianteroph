@@ -1,5 +1,8 @@
-## Data-analyst 
+## Diana, Data-analyst 
 📌 Higher School of Economics, Saint-Petersburg
+
+🌟 study Social Science and Computer Science in [HSE university](https://spb.hse.ru/en/)<br/>
+📚 currently study the basis of A/B testing and Data visualization 
 
 ## Contacts:
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:dianashevtsova03@gmail.com)
