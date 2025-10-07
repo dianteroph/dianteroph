@@ -1,4 +1,4 @@
-## Diana
+## Diana Shevtsova
 📌 Higher School of Economics, Saint-Petersburg
 
 🌟 study Social Science and Computer Science in [HSE university](https://spb.hse.ru/en/)<br/>
